@@ -1,137 +1,50 @@
-Hacktoberfest-2023
+# Cloudthat-Aum-Jadhav
+![image](https://github.com/aumjadhav8/Cloudthat-Aum-Jadhav/assets/73793027/e33b944e-f6bd-4123-8156-f1b03bdbba51)
 
-**Checkout this Project as well [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/) , It's hacktoberfest github : [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
+<h1>About CloudThat’s Independence Day Challenge </h1>
 
+<p>The challenge focuses on Generative AI and requires participants to develop a responsive and creative web page using ChatGPT to convey an Independence Day message. The winning participant will be determined based on the most imaginative message and flawless code. Participants are free to use any programming language, but they must submit their code through a GitHub repository link.</p>
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR. 
+<h2 style="text-align: left;">About My Design</h2>
 
-In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved.
-Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2023/)}
+<div style="text-align: left;">I recently began to learn Front-End Development. Since then It's really been a great journey learning from various resources, and <b> demonstrating my skills over here by building this project is really a great opportuinity</b>.<br> I have used HTML, CSS &amp; JavaScript. To build my project. It focuses over the responsiveness of the design. I have added various animations like the Confetti &amp; Smooth Scrolling Effect, to keep the user interaction as good as possible. <b>Coming up to the Design with its individual elements.</b>
 
-
-**This is a beginner-friendly project to help you get started with your
-[hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
-
-P.S. Star ⭐ and Share this repository, if you had fun!! 😍
-
-Hacktoberfest 2023
-![Event Completed](/scripts/Event_Completed_.png)
-
-# 📌 Videos 📽️:
-
-- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
-- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
-- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+  <h3 style="text-align: left;">Background & Styles</h3>
+  <b>The webpage has a background of our Indian Tricolor, also I have implemented the style of Glassmorphism in the project.<br></b>
+  
+  <h3 style="text-align: left;">Favicon</h3>
+  
+  <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="font-weight: bold; margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhlpqQ3w2SzAhivHf0fMkrz5C7eKCOHjL2LuJx_K-_3c5QHTJvbJA28uvj-N4juA_nReajjHbwTNwxk_yub4vxpkhYKg5ZYUriAQdHIbunmqyNTU4KKqcU2v0PaUlljbK7NJ20LWGptmHfFUrz2Vf7ypAXO3XRJ8bwmcBAzMCA9MHSmM6ysLsoaEfqM52Al" style="margin-left: auto; margin-right: auto;"><img alt="" data-original-height="100%" data-original-width="100%" src="https://blogger.googleusercontent.com/img/a/AVvXsEhlpqQ3w2SzAhivHf0fMkrz5C7eKCOHjL2LuJx_K-_3c5QHTJvbJA28uvj-N4juA_nReajjHbwTNwxk_yub4vxpkhYKg5ZYUriAQdHIbunmqyNTU4KKqcU2v0PaUlljbK7NJ20LWGptmHfFUrz2Vf7ypAXO3XRJ8bwmcBAzMCA9MHSmM6ysLsoaEfqM52Al" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Favicon</td></tr></tbody></table>I have added an Indian Flag Favicon to the Web Page<br />
+  
+  <h3 style="text-align: left;">Rolling Text at Top</h3>
+  
+<div class="separator" style="clear: both; font-weight: bold; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEg6RoVKtTc2sYT6flSrM03EdCUE70CutmRUv4l8smsUtwnLseXXNSwLxF4Ya42H7fQ1jwMxp5uZXatfZuLnpCF8nJcwqH6OV6GqfYfkpLBWfqgVv38OPCH3i6rfF7VLQuCiwnkY_WIkZqWdNfdub-IOHOTmVeC-OqnPiosMF-fGnyU2afogXxwXKjjABr3H" style="margin-left: 1em; margin-right: 1em;"><img data-original-height="92" data-original-width="1906" src="https://blogger.googleusercontent.com/img/a/AVvXsEg6RoVKtTc2sYT6flSrM03EdCUE70CutmRUv4l8smsUtwnLseXXNSwLxF4Ya42H7fQ1jwMxp5uZXatfZuLnpCF8nJcwqH6OV6GqfYfkpLBWfqgVv38OPCH3i6rfF7VLQuCiwnkY_WIkZqWdNfdub-IOHOTmVeC-OqnPiosMF-fGnyU2afogXxwXKjjABr3H=s16000" /></a></div>
+Custom Made for the Competition<br>
 
 
-# Contribution Rules📚:
+  <h3 style="text-align: left;">Hero Section</h3>
+<img data-original-height="949" data-original-width="1919" src="https://blogger.googleusercontent.com/img/a/AVvXsEiDy6EOTxCEwIgO_AzoAmoU5IQTLImUC3-Jf4quQbWhkfxh7Na3dPezM0xR9qZk-xIKMMHnGUzRoGbl0ZgnWyx0yGq5AxtcH2YSSq1NH6MYbo4_GYvXaAFnc7NrOsoXJGy7I8zYKvDsEn4L6MSZWHIaolflod5T7KVjLv-ri5V3cRQn3K2UOv0c5KgDucwU=s16000" />So the Hero Section Banner, as you can see is custom made for this event. I am a designer, I have added CloudThat's Logo to the Banner. <br />
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-<!-- - Add your name to the contributorsList file. -->
-- Try to keep pull requests small to minimize merge conflicts
+<h3> Quotes Section</h3>
+For the Preview Please View over Google Drive :- https://drive.google.com/file/d/16yXvW2al5FrUnO5JA-y2C54VcJOAIc-P/preview <br>
+Here, We have our quotes by our great leaders. Every time you refresh page you will find a new quote for you !<br>
 
+  <h3 style="text-align: left;">Video Container with Description</h3>
+<img data-original-height="524" data-original-width="1765" src="https://blogger.googleusercontent.com/img/a/AVvXsEjPsg5ZYPfFLSGwF3odV7OSkEW17MD1z0eJ0WFnBrpGrEyH93FRkHj8O4QH5PYP-nWH3rWM9Nuf4ogrABczuVdi9ARx1ovfFfCduP0bsqytRbRV_Zmx-HsiLAh2x4r7m-_W-fdPYWNooaz_jbztdpUPtjPfGsFI-zzxKyScdfoNmMipUXQ_edZFeDU59R_B=s16000" />  
+The Video Represents Our India's Cultural Diversity ! with different kinds of festivals and different relgions in the video. The video belongs to Incredible India Youtube Channel. The description is a based on our unity.<br>
 
-## Getting Started 🤩🤗:
+  <h3 style="text-align: left;">Element having Unity Examples Cards</h3>
+  <img data-original-height="544" data-original-width="1778" src="https://blogger.googleusercontent.com/img/a/AVvXsEgTtiHncIaUkmIRLLIwBg6D-JB65Cgm7pcSF-b2KpC4gzxrtKgHGwqgk_0n6sf1wEXtHxUVQ1Ujbi_whKrTli0kjE70nZOnipS6deZ-MQAVPHJ4iPALNOXo2b8mf8EpMV0beEVKZyT2iHfXhgpHJYxE16riYsZL-NCz5_DQaxtx9sWFnusYsCqHSm191B6C=s16000" />
+  This element is purly based on CSS & keyframe animation properties.The section denotes where exactly and how we Indians are united though we have diversity.<br>
 
-- Fork this repo (button on top)
-- Clone on your local machine
-
-```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2023.git
-```
-- Navigate to project directory.
-```terminal
-cd Hacktoberfest2023
-```
-
-- Create a new Branch
-
-```markdown
-git checkout -b my-new-branch
-```
-
-<!--- - Add your Name to `contributors/contributorsList.js`. -->
-
-```markdown
-git add .
-```
-- Commit your changes.
-
-```markdown
-git commit -m "Relevant message"
-```
-- Then push 
-```markdown
-git push origin my-new-branch
-```
-
-
-- Create a new pull request from your forked repository
-
+  <h3 style="text-align: left;">Highlights from some Content Creators</h3>
+<img data-original-height="977" data-original-width="1915" src="https://blogger.googleusercontent.com/img/a/AVvXsEg5j3byLzFfBb9CVZ2OXoXKjmOgMit1ZKQn-FDtD7Sn3yA9HRlfAFp7M5VJ2FreHSNXgvSlrUjWuJXbhZ3QBByxXbBemlfqYnuLu5uOlNbL8KXaQSJlke_n8nZRGI4LvNnMC3b3PFQttI4G_GMmQKB2eqhfFulpq33V9lqiOfmxCVNAqV2sX6kh7ssGIt6w=s16000" />
 <br>
+<img data-original-height="977" data-original-width="1915" src="https://blogger.googleusercontent.com/img/a/AVvXsEgsuDSMsL8dLQhUI0_1G-V8xsBvzuFKe97Ux28lVdMOoP8aM-08HHIQw_x0rtBjWJcc-IpLC8nU1qPUWrvnIIFp_X1MTbANQMbDSe_t7mAIxgdY-vEv_rFF2qA_JRmkVwWiYJM9jDJk00rlwCI6HCd4E5cKPrb7kzY7yWFk3t2SdUN3O9YFui8YepCKAPn4=s16000" />
+In Highlights section I have included some videos from content creators who are representing our country in a very beautiful form in aspects of the Culture & Diversity. I would like to mention them @bhalovashi, @camerawalebhaiya, @shubhamtotu you can find them on Instagram<br>
+  
+  <h3 style="text-align: left;">Footer Section</h3>
+  <img data-original-height="99" data-original-width="1910" src="https://blogger.googleusercontent.com/img/a/AVvXsEgN7bQqtGokqHCK_IPFcGrDEaFScX1yuocL1QVfEpiqy2P-sdZVU-XnNNNWop6iEdfMnuj-209roHEnRmn6sGJG4NZrSCRy1ZQHyovzBtt0dSeuPAhnUXlZkr6RidD8WpbbouJJv4Vgu6LqKSSJAHm8opYUHBAY3pkrnrI-V0Ki06uHd5qMWAgI1_pKknu_=s16000" />
+  Lastly here I have added a beating heart icon, used from FontAwesome Library.<br>
 
-## Avoid Conflicts {Syncing your fork}
-
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
-
-```terminal
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2023
-```
-
-You can verify that the new remote has been added by typing
-```terminal
-git remote -v
-```
-
-To pull any new changes from your parent repo simply run
-```terminal
-git merge upstream/master
-```
-
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
-
-For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
-
-## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
- 
-     <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
-</b></li>
-
-# FAQs (Frequently Asked Questions)
-
-- Who all can contribute?
-  - Anyone with a github account and who is signed up for
-[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
-- Are you getting paid for this?
-  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
-- Who are you and why are you doing this?
-  - We are two programmers from India [Anmol](https://www.linkedin.com/in/fineanmol/)
-  and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-- Why are you not using digitalocean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
-
-- Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
-  - Nope.
-- How many pull request (PR) must be made, if I want to get an awesome tshirt from Hacktoberfest 2023?
-  - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2023?
-  - [go to :](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
-- What is the duration of Hacktoberfest 2023?
-  - It is from 1st october to 31st october 2023...
-- What is the event for?
-  - For the open source community engagement and learn how to contribute to open source.
-
-
-
-
-###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
-<br>
-
-## Our Top Contributors 
-<p align="center"><a href="https://github.com/fineanmol/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=fineanmol/Hacktoberfest2023" />
-</a></p>
+  <h1>This project is only made for CloudThat's Independence Day Challenge </h1><b>Please Do Not use this project for your personal uses like adding in reseume's, do learn from the project but also pay attention for the creators hardwork.</b>
